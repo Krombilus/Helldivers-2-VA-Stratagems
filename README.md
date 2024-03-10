@@ -30,5 +30,6 @@ Some stratagems have nicknames, the 500kg bomb can also be called the Mini-Nuke 
 Reinforce can also be called Reinforcements or Revive.
 Resupply can also be called Ammo.
 
+The full list of commands, keywords, and nicknames can be found here: https://docs.google.com/spreadsheets/d/1ixjsCEgo8R7u2qoUsRPYr0QQEi9jiekKbC1ECiAlRUw/edit?usp=sharing
+
 I will update the profile whenever I have free time.
-Next on the agenda is a list of all the strikes and their keywords.
