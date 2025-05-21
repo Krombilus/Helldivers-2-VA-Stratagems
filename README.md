@@ -1,3 +1,5 @@
+Helldivers 2 VA Stratagems by Krombilus & JackTehCatMan
+
 Something I made during an entire Saturday, just because I thought it would be awesome.
 
 It's not faster than learning the sequence and typing them by hand.
@@ -33,3 +35,5 @@ Resupply can also be called Ammo.
 The full list of commands, keywords, and nicknames can be found here: https://docs.google.com/spreadsheets/d/1ixjsCEgo8R7u2qoUsRPYr0QQEi9jiekKbC1ECiAlRUw/edit?usp=sharing
 
 I will update the profile whenever I have free time.
+
+Edit 5/21/25: I've finally updated this up to the current warbond (Masters of Ceremony), with much help from u/JackTehCatMan both from his testing and his own additions when I didn't play much anymore.
