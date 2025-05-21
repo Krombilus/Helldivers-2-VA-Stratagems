@@ -10,6 +10,9 @@ And will help less-dexterous helldivers in the fight to spread managed democracy
 
 How to use:
 
+You can grab Voice Attack from Steam here: https://store.steampowered.com/app/3046550/VoiceAttack_v2
+or here: https://voiceattack.com/Default.aspx
+
 Every macro is set to the arrow keys, and the listening button is bound to left control.
 If you don't have arrow keys, you can set your keybinds in-game by saying "Arrow Left" for the left arrow, etc.
 "Arrow" is the listening override command, so if you need to use a terminal, it allows you to not hold control (which would boot you out of the terminal), it's tedious, it's slow, but its a workaround for now.
