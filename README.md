@@ -36,6 +36,7 @@ Reinforce can also be called Reinforcements or Revive.
 Resupply can also be called Ammo.
 
 The full list of commands, keywords, and nicknames can be found here: https://docs.google.com/spreadsheets/d/1ixjsCEgo8R7u2qoUsRPYr0QQEi9jiekKbC1ECiAlRUw/edit?usp=sharing
+(Not yet updated)
 
 I will update the profile whenever I have free time.
 
